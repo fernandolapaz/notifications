@@ -1,0 +1,26 @@
+[
+  {
+    "id": "type01",
+    "type": "reacted to your recent post"
+  },
+  {
+    "id": "type02",
+    "type": "followed you"
+  },
+  {
+    "id": "type03",
+    "type": "has joined your group"
+  },
+  {
+    "id": "type04",
+    "type": "sent you a private message"
+  },
+  {
+    "id": "type05",
+    "type": "commented on your picture"
+  },
+  {
+    "id": "type06",
+    "type": "left the group"
+  }
+]

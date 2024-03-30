@@ -1,0 +1,12 @@
+[
+  {
+    "id": "img01",
+    "url": "/images/image-chess.webp",
+    "alt": "Me playing a chess tournament"
+  },
+  {
+    "id": "img02",
+    "url": "whatever",
+    "alt": "blabla"
+  }
+]

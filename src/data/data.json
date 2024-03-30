@@ -1,0 +1,79 @@
+[
+  {
+    "avatar": "/images/avatar-mark-webber.webp",
+    "username": "Mark Webber",
+    "desc": {
+      "type": "type01",
+      "ref": "post01"
+    },
+    "time": "1m ago",
+    "message": null,
+    "read": false
+  },
+  {
+    "avatar": "/images/avatar-angela-gray.webp",
+    "username": "Angela Gray",
+    "desc": {
+      "type": "type02",
+      "ref": null
+    },
+    "time": "5m ago",
+    "message": null,
+    "read": false
+  },
+  {
+    "avatar": "/images/avatar-jacob-thompson.webp",
+    "username": "Jacob Thompson",
+    "desc": {
+      "type": "type03",
+      "ref": "group01"
+    },
+    "time": "1 day ago",
+    "message": null,
+    "read": false
+  },
+  {
+    "avatar": "/images/avatar-rizky-hasanuddin.webp",
+    "username": "Rizky Hasanuddin",
+    "desc": {
+      "type": "type04",
+      "ref": null
+    },
+    "time": "5 days ago",
+    "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+    "read": true
+  },
+  {
+    "avatar": "/images/avatar-kimberly-smith.webp",
+    "username": "Kimberly Smith",
+    "desc": {
+      "type": "type05",
+      "ref": "img01"
+    },
+    "time": "1 week ago",
+    "message": null,
+    "read": true
+  },
+  {
+    "avatar": "/images/avatar-nathan-peterson.webp",
+    "username": "Nathan Peterson",
+    "desc": {
+      "type": "type01",
+      "ref": "post02"
+    },
+    "time": "2 weeks ago",
+    "message": null,
+    "read": true
+  },
+  {
+    "avatar": "/images/avatar-anna-kim.webp",
+    "username": "Anna Kim",
+    "desc": {
+      "type": "type06",
+      "ref": "group01"
+    },
+    "time": "2 weeks ago",
+    "message": null,
+    "read": true
+  }
+]
